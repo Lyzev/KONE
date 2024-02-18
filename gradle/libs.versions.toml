@@ -1,0 +1,16 @@
+# Copyright (c) 2024. KONE
+# All rights reserved.
+
+[versions]
+kotlin = "1.9.22"
+dokka = "1.9.10"
+
+[libraries]
+
+[plugins]
+kotlin = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
+kotlin_serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
+dokka = { id = "org.jetbrains.dokka", version.ref = "dokka" }
+
+[bundles]
+
