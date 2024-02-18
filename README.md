@@ -18,8 +18,6 @@
     <a href="https://github.com/Lyzev/KONE/actions/workflows/code-quality.yml"><img src="https://github.com/Lyzev/KONE/actions/workflows/code-quality.yml/badge.svg" alt="Code Quality"/></a>
     <a href="https://github.com/Lyzev/KONE/actions/workflows/documentation.yml"><img src="https://github.com/Lyzev/KONE/actions/workflows/documentation.yml/badge.svg" alt="Documentation"/></a>
     <br>
-    <a href="https://github.com/Lyzev/KONE/actions/workflows/release.yml"><img src="https://github.com/Lyzev/KONE/actions/workflows/release.yml/badge.svg" alt="Release"/></a>
-    <br>    
     <a href="https://github.com/Lyzev/KONE/actions/workflows/gradle-wrapper-validation.yml"><img src="https://github.com/Lyzev/KONE/actions/workflows/gradle-wrapper-validation.yml/badge.svg" alt="Validate Gradle Wrapper"/></a>
 </div>
 
