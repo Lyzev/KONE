@@ -22,7 +22,7 @@ kotlin {
 }
 
 tasks.getByName<DokkaTask>("dokkaHtml") {
-    outputDirectory.set(layout.buildDirectory.get().dir("dokkaHtmlOutput"))
+    outputDirectory.set(layout.buildDirectory.dir("dokkaHtmlOutput"))
 }
 
 tasks.compileKotlin {
